@@ -1,4 +1,4 @@
 # SampleWebage
 <html>
-  <a href="https://rishabhhmishra.github.io/SampleWebage/navbar.html">link to website</a>
+  <a target="_blank" href="https://rishabhhmishra.github.io/SampleWebage/navbar.html">link to website</a>
  </html>
